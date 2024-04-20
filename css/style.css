@@ -242,15 +242,10 @@ body {
   line-height: 26px;
   font-weight: 500;
   border: none;
-  width: 64px;
-  height: 38px;
   border-radius: 4px 0px 0px 0px;
+  padding: 6px 22px 6px 22px;
 }
-.cards-btn__list:nth-child(2) {
-  width: 120px;
-  height: 38px;
-  background-color: red;
-}
+
 .cards-btn__item:hover,
 .cards-btn__item:focus {
   background-color: var(--blue);
