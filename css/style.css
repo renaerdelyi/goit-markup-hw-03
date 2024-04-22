@@ -47,6 +47,7 @@ body {
   font-size: 14px;
   line-height: 16.41px;
   color: var(--primary-background);
+  width: 100%;
 }
 .header-section .container {
   display: flex;
@@ -117,6 +118,7 @@ body {
   align-items: center;
   display: flex;
   text-align: center;
+  width: 100%;
 }
 .hero-section__title {
   padding-top: 200px;
@@ -185,6 +187,7 @@ body {
   padding-bottom: 94px;
   flex-direction: column;
   background-color: #f5f4fa;
+  width: 100%;
 }
 .our-team__title {
   font-size: 36px;
